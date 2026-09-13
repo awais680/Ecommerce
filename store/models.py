@@ -45,4 +45,4 @@ class order_item(models.Model):
 # Create your models here.
 
 
-print("models.py file executed successfully")
+print("models.py file executed ")
